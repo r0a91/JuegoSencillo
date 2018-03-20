@@ -1,0 +1,19 @@
+El juego fue hecho con Phaser.js por lo tanto necesita ejecutarse sobre un servidor.
+
+Abrir terminal con direccion en la carpeta.
+
+Correr un servidor, es posible con Python u otro tipo de servidor.
+
+Para correr un servidor de python. 
+
+Para python 3
+python -m http.server
+
+Para python 2
+python -m SimpleHTTPServer
+
+
+
+El cual crea un servidor en localhost:8000
+
+Abrir localhost:8000 en el navegador
